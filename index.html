@@ -9,6 +9,20 @@
     <script src="script.js" defer></script>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Body Mass Index</h1>
+        <div class="row">
+            <input type="range" min="20" max="200" value="20" id="weight">
+            <span id="weight-val">20 kg</span>
+        </div>
+        
+        <div class="row">
+            <input type="range" min="100" max="250" value="100" id="height">
+            <span id="height-val">100 cm</span>
+        </div>
+
+        <p id="result">20.0</p>
+        <p id="category">Normal weight</p>
+    </div>
 </body>
 </html>
