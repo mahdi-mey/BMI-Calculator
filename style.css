@@ -5,11 +5,8 @@
 }
 body{
     height: 100vh;
-    background: linear-gradient(
-        135deg,
-        #61d954,
-        #2ebf75
-    );
+    background: rgb(0,149,150);
+background: linear-gradient(80deg, rgba(0,149,150,1) 0%, rgba(11,167,60,1) 100%);
 }
 
 .container{
