@@ -26,6 +26,7 @@ background: linear-gradient(80deg, rgba(0,149,150,1) 0%, rgba(11,167,60,1) 100%)
    text-align: center; 
    margin-bottom: 40px;
    color: #262626;
+   font-size: clamp(1rem, 2vw, 6rem);
 }
 .row{
     display: flex;
