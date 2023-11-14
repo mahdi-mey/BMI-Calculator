@@ -13,7 +13,7 @@ background: linear-gradient(80deg, rgba(0,149,150,1) 0%, rgba(11,167,60,1) 100%)
     background-color: #ffffff;
     padding: 40px 30px;
     width: 50%;
-    min-width: 400px;
+    min-width: 250px;
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
