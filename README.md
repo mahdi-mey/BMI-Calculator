@@ -16,6 +16,14 @@ This is a BMI (Body Mass Index) calculator project that allows users to calculat
 
    This feature helps users quickly identify their weight category based on their calculated BMI.
 
+## How to Use
+
+1. Open the BMI calculator web page.
+2. Enter your weight in the provided input field.
+3. Enter your height in the provided input field.
+4. Click the "Calculate" button.
+5. The calculated BMI value will be displayed, along with an H1 tag indicating your weight status using color-coded labels.
+
 ## Technologies Used
 
 The BMI calculator project is built using the following technologies:
