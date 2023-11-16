@@ -16,6 +16,11 @@ This is a BMI (Body Mass Index) calculator project that allows users to calculat
 
    This feature helps users quickly identify their weight category based on their calculated BMI.
 
+   
+## View Demo
+
+You can view a demo of the BMI calculator by visiting the [demo page](https://mahdi-mey.github.io/BMI-Calculator/). Try it out to see how it works!
+
 ## How to Use
 
 1. Open the BMI calculator web page.
@@ -32,7 +37,6 @@ The BMI calculator project is built using the following technologies:
 - CSS
 - JavaScript
 
-[Use App Online](https://mahdi-mey.github.io/BMI-Calculator/)
 
 ## Clone the repository
 ```bash
